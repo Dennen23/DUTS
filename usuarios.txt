@@ -1,0 +1,3 @@
+Admin|Root|admin@gmail.com|3183986365|admin|admin123|0.0|src/imagenes/IconPerson.png
+Steben|Millan|asdasdasd@gmail.com|31739753532|samillan|Princesa312|0.0|C:\Users\prueb\Downloads\descarga (1).jpg
+Julieth|Figueredo|asdasd@gmail.com|3193978373|jjuly|Princesa312|0.0|src/imagenes/IconPerson.png
